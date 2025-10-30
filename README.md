@@ -6,7 +6,7 @@ Busca automatizar la recolección, limpieza y análisis de datos del SECOP (Colo
 
 🎯 Objetivos del proyecto
 
-Procesar grandes volúmenes de datos de licitaciones (SECOP I y II).
+* Procesar grandes volúmenes de datos de licitaciones (SECOP I y II).
 
 Entrenar modelos de Machine Learning para predecir adjudicaciones, clasificar tipos de procesos o detectar anomalías.
 
