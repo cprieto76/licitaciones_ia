@@ -8,8 +8,8 @@ Busca automatizar la recolección, limpieza y análisis de datos del SECOP (Colo
 
 * Procesar grandes volúmenes de datos de licitaciones (SECOP I y II).
 
-Entrenar modelos de Machine Learning para predecir adjudicaciones, clasificar tipos de procesos o detectar anomalías.
+* Entrenar modelos de Machine Learning para predecir adjudicaciones, clasificar tipos de procesos o detectar anomalías.
 
-Desarrollar herramientas automáticas de análisis de texto (NLP) en pliegos, contratos y adendas.
+* Desarrollar herramientas automáticas de análisis de texto (NLP) en pliegos, contratos y adendas.
 
-Facilitar reportes inteligentes sobre oportunidades y desempeño de oferentes.
+* Facilitar reportes inteligentes sobre oportunidades y desempeño de oferentes.
